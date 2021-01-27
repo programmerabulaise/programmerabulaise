@@ -1,0 +1,11 @@
+*{
+    margin:0;padding:0;
+}
+
+h1#abulaise-logo {
+    color: rgb(12, 4, 4);
+    margin-top: 8px;
+}
+#bannerimg{
+    background:(https://cdn.pixabay.com/photo/2018/05/18/15/30/webdesign-3411373_1280.jpg) fixed;
+}
